@@ -1,0 +1,23 @@
+h1 {
+    color: gold;
+    border: solid grey;
+    background-color: grey;
+}
+
+h2 {
+    color: blue;
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+.first {
+    font-size: 20px;
+    margin-left: 10px;
+}
